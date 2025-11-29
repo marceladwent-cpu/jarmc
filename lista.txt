@@ -1,0 +1,7 @@
+Powah-6.2.6.jar
+guideme-21.1.7.jar
+ironchest-1.21-neoforge-16.0.7.jar
+ironfurnaces-neoforge-1.21.1-4.3.2.jar
+pipez-neoforge-1.21.1-1.2.17.jar
+refinedstorage-neoforge-2.0.0.jar
+cookingforblockheads-neoforge-1.21.1-21.1.17
