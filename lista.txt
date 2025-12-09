@@ -9,3 +9,5 @@ connectivity-1.21.1-7.2.jar
 Placebo-1.21.1-9.9.1.jar
 FastSuite-1.21.1-6.0.5.jar
 reeses-sodium-options-neoforge-1.8.3+mc1.21.4
+modernfix-neoforge-5.25.1+mc1.21.1
+Not Enough Recipe Book-NEOFORGE-0.4.3+1.21
