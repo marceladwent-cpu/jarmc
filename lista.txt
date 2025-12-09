@@ -11,3 +11,4 @@ FastSuite-1.21.1-6.0.5.jar
 reeses-sodium-options-neoforge-1.8.3+mc1.21.4
 modernfix-neoforge-5.25.1+mc1.21.1
 Not Enough Recipe Book-NEOFORGE-0.4.3+1.21
+OctoLib-NEOFORGE-0.6.0.4+1.21
